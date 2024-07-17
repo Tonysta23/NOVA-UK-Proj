@@ -1,2 +1,2 @@
 # NOVA-UK-Proj
-Student Performance Prediction ml web based project
+Student Performance Prediction ml web based project.
